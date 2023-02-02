@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Yeni klasör (2)\task1\task1\bin\Debug\netcoreapp3.1\task1.exe
+C:\Users\User\OneDrive\Desktop\Yeni klasör (2)\task1\task1\bin\Debug\netcoreapp3.1\task1.deps.json
+C:\Users\User\OneDrive\Desktop\Yeni klasör (2)\task1\task1\bin\Debug\netcoreapp3.1\task1.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Yeni klasör (2)\task1\task1\bin\Debug\netcoreapp3.1\task1.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\Yeni klasör (2)\task1\task1\bin\Debug\netcoreapp3.1\task1.dll
+C:\Users\User\OneDrive\Desktop\Yeni klasör (2)\task1\task1\bin\Debug\netcoreapp3.1\task1.pdb
+C:\Users\User\OneDrive\Desktop\Yeni klasör (2)\task1\task1\obj\Debug\netcoreapp3.1\task1.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Yeni klasör (2)\task1\task1\obj\Debug\netcoreapp3.1\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Yeni klasör (2)\task1\task1\obj\Debug\netcoreapp3.1\task1.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Yeni klasör (2)\task1\task1\obj\Debug\netcoreapp3.1\task1.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Yeni klasör (2)\task1\task1\obj\Debug\netcoreapp3.1\task1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Yeni klasör (2)\task1\task1\obj\Debug\netcoreapp3.1\task1.dll
+C:\Users\User\OneDrive\Desktop\Yeni klasör (2)\task1\task1\obj\Debug\netcoreapp3.1\task1.pdb
+C:\Users\User\OneDrive\Desktop\Yeni klasör (2)\task1\task1\obj\Debug\netcoreapp3.1\task1.genruntimeconfig.cache
